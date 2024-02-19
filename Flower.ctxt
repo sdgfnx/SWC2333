@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Flower
+comment0.text=\r\n\ Program\ description\:To\ define\ the\ instance\ variables\ (attributes)\ and\ instance\ methods\ (behaviours)\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ of\ a\ class\ named\ Flower\r\n\ Programmer\:Najihah\ Husna\r\n\ Date\:19\ February\ 2024\r\n
+comment1.params=
+comment1.target=Flower()
+comment10.params=quantity
+comment10.target=void\ setQuantity(int)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=name\ color\ price\ quantity
+comment2.target=Flower(java.lang.String,\ java.lang.String,\ double,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getColor()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=
+comment6.target=int\ getQuantity()
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+comment8.params=color
+comment8.target=void\ setColor(java.lang.String)
+comment9.params=price
+comment9.target=void\ setPrice(double)
+numComments=12
